@@ -1,0 +1,20 @@
+input_CR_prccd.txt ACC: 79.15% (+/- 2.10%) ROC: 85.64% (+/- 2.04%)
+Sun Dec 31 11:55:42 2017
+input_Sub_prccd.txt ACC: 90.51% (+/- 0.82%) ROC: 96.63% (+/- 0.43%)
+Sun Dec 31 12:24:14 2017
+input_MPQA_prccd.txt ACC: 69.92% (+/- 1.70%) ROC: 64.02% (+/- 1.18%)
+Sun Dec 31 12:55:43 2017
+inputPCQM_prccd.txt ACC: 86.62% (+/- 1.76%) ROC: 90.32% (+/- 1.73%)
+Sun Dec 31 13:08:28 2017
+input_flood_phi_prccd.txt ACC: 88.78% (+/- 3.90%) ROC: 91.57% (+/- 3.90%)
+Sun Dec 31 13:13:33 2017
+input_flood_colorado_prccd.txt ACC: 84.67% (+/- 2.64%) ROC: 86.18% (+/- 3.76%)
+Sun Dec 31 13:19:24 2017
+input_flood_qeen_prccd.txt ACC: 85.60% (+/- 2.33%) ROC: 88.13% (+/- 6.75%)
+Sun Dec 31 13:25:51 2017
+input_flood_manila_prccd.txt ACC: 84.57% (+/- 2.22%) ROC: 91.81% (+/- 2.23%)
+Sun Dec 31 13:32:55 2017
+input_fire_australia_prccd.txt ACC: 81.38% (+/- 3.44%) ROC: 86.16% (+/- 2.95%)
+Sun Dec 31 13:40:50 2017
+input_earthquake_chile_prccd.txt ACC: 86.71% (+/- 2.28%) ROC: 89.09% (+/- 2.92%)
+Sun Dec 31 13:51:57 2017

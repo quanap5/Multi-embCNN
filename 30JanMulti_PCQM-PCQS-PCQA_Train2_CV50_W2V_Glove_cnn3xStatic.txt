@@ -1,0 +1,4 @@
+inputPCQM.txt ACC: 87.03% (+/- 2.13%) ROC: 91.16% (+/- 1.68%)
+Wed Jan 31 02:18:52 2018
+input_PCQS_prccd.txt ACC: 85.21% (+/- 1.92%) ROC: 89.02% (+/- 1.68%)
+Wed Jan 31 02:26:33 2018

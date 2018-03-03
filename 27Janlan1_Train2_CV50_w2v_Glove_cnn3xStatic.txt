@@ -1,0 +1,20 @@
+input_thesis.txt ACC: 88.29% (+/- 1.96%) ROC: 94.18% (+/- 1.49%)
+Sat Jan 27 02:49:36 2018
+input_CR_prccd.txt ACC: 76.74% (+/- 2.21%) ROC: 83.37% (+/- 2.64%)
+Sat Jan 27 02:57:07 2018
+input_Sub_prccd.txt ACC: 89.69% (+/- 0.91%) ROC: 96.18% (+/- 0.50%)
+Sat Jan 27 03:14:17 2018
+input_MPQA_prccd.txt ACC: 68.95% (+/- 1.05%) ROC: 64.56% (+/- 2.07%)
+Sat Jan 27 03:21:14 2018
+inputPCQM_prccd.txt ACC: 84.82% (+/- 2.17%) ROC: 89.30% (+/- 1.25%)
+Sat Jan 27 03:29:23 2018
+input_flood_phi_prccd.txt ACC: 85.44% (+/- 4.37%) ROC: 90.91% (+/- 4.51%)
+Sat Jan 27 03:32:38 2018
+input_flood_colorado_prccd.txt ACC: 84.89% (+/- 3.90%) ROC: 87.23% (+/- 4.30%)
+Sat Jan 27 03:36:28 2018
+input_flood_qeen_prccd.txt ACC: 82.75% (+/- 4.89%) ROC: 87.52% (+/- 5.74%)
+Sat Jan 27 03:41:19 2018
+input_flood_manila_prccd.txt ACC: 85.11% (+/- 4.35%) ROC: 91.55% (+/- 3.19%)
+Sat Jan 27 03:46:36 2018
+input_fire_australia_prccd.txt ACC: 80.32% (+/- 4.64%) ROC: 85.17% (+/- 4.76%)
+Sat Jan 27 03:52:39 2018

@@ -1,0 +1,4 @@
+input_CR_prccd.txt ACC: 73.95% (+/- 2.87%) ROC: 79.85% (+/- 2.91%)
+Mon Jan  1 10:36:55 2018
+input_Sub_prccd.txt ACC: 88.40% (+/- 0.84%) ROC: 95.35% (+/- 0.46%)
+Mon Jan  1 11:16:12 2018

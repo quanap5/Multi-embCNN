@@ -1,0 +1,6 @@
+roc: 0.84%acc: 75.07%roc: 0.85%acc: 79.31%roc: 0.81%acc: 71.88%roc: 0.88%acc: 81.43%roc: 0.81%acc: 74.80%roc: 0.89%acc: 79.58%roc: 0.85%acc: 76.39%roc: 0.86%acc: 78.78%roc: 0.80%acc: 73.74%roc: 0.84%acc: 75.33%Thu Jan 11 11:44:45 2018
+input_CR_prccd.txt ACC: 76.63% (+/- 2.86%) ROC: 84.34% (+/- 2.73%)
+Thu Jan 11 11:44:45 2018
+roc: 0.95%acc: 87.30%roc: 0.96%acc: 88.90%roc: 0.95%acc: 89.00%roc: 0.97%acc: 90.00%roc: 0.91%acc: 73.70%roc: 0.96%acc: 89.80%roc: 0.96%acc: 89.60%roc: 0.96%acc: 88.60%roc: 0.97%acc: 91.00%roc: 0.96%acc: 89.50%Thu Jan 11 20:03:10 2018
+input_Sub_prccd.txt ACC: 87.74% (+/- 4.77%) ROC: 95.54% (+/- 1.44%)
+Thu Jan 11 20:03:10 2018

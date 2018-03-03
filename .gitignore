@@ -1,0 +1,10 @@
+# ignore file json
+
+#ignore file .pyc
+*.pyc
+
+#ignore embedding file with large text
+glove.txt
+glove2.txt
+GoogleNews-vectors-negative300.txt
+
