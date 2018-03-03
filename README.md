@@ -1,21 +1,21 @@
-# CNN-Sentence-Classifier
-Simplified implementation of "Convolutional Neural Networks for Sentence Classification" paper
+# Multi-word Embeddings CNN for Identifying Informative Messages
+- Simplified implementation of "Convolutional Neural Networks for Sentence Classification" paper
 
-## Usage
+- We introduce a novel approach usingConvolutional NeuralNetwork   augmented   with   multi-word   embeddings.   The   concatenation of embeddings at the embedding layer is utilized to learn local feature for sentenceclassification.  Our  approach  combines  i)  diverse  version  of  pre-trained  wordembeddings   and   ii)   extracts   features   of   the   sentence   with   variable-size convolution  filter.  We  also  show  the  advantages  and  good  performance  whencompared with baseline methods in case of disaster data.
+----
+## Requirement
+- tensorflow
+- keras
+- ...
 
-* Install [Keras](https://keras.io/#installation)
-* Repository contains "Movie reviews with one sentence per review" (Pang and Lee, 2005) dataset in `sample_dataset`.
-* Alternatively, to use some other dataset, make two files
-    * `input.txt` where each line is a sentence to be classified
-    * `label.txt` where each line is the label for corresponding line in `input.txt`
-* Make `model` folder by running `mkdir model`
-* Refer [this](http://nlp.stanford.edu/projects/glove/) to train or download Glove embeddings and [this](https://code.google.com/archive/p/word2vec/) for Word2Vec embeddings.
-* Run `python3 app/train.py --data_dir=path_to_folder_containing_input.txt_and_label.txt --embedding_file_path=path_to_embedding_vectors_file --model_name=name_of_model_from_the_paper`
-* For example, if data is in `data` folder, embedding file is `vectors.txt` and model is `cnn_static`, run `python3 app/train.py --data_dir=data --embedding_file_path=vectors.txt --model_name=cnn_static`
-* To define your own model, pass `model_name` as `self`, define your model in [app/model/model.py](app/model/model.py) and invoke from `model_selector` function (in [model.py](app/model/model.py)).
-* All supported arguments can be seen in [here](app/utils/argumentparser.py)
+----
+## Running
+- Configure home folder
+- run with 'python train.py'
+- Check output
 
+----
 ## References
 
 * [Kim, Yoon. "Convolutional neural networks for sentence classification." arXiv preprint arXiv:1408.5882 (2014)](https://arxiv.org/abs/1408.5882)
-* [Summary of paper](https://gist.github.com/shagunsodhani/9ae6d2364c278c97b1b2f4ec53255c56)# Multi-EmbeddingCNNV2
+* [Main: Multi-word Embeddings CNN for Identifying Informative Messages](http://sclab.cafe24.com/publications/552.pdf)
