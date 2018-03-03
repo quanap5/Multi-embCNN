@@ -18,4 +18,3 @@
 ## References
 
 * [Kim, Yoon. "Convolutional neural networks for sentence classification." arXiv preprint arXiv:1408.5882 (2014)](https://arxiv.org/abs/1408.5882)
-* [Main: Multi-word Embeddings CNN for Identifying Informative Messages](http://sclab.cafe24.com/publications/552.pdf)
